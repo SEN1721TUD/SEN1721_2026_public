@@ -90,15 +90,15 @@ Step-by-Step Instructions:
 
 4. **Copy to your course folder**
    - Open File Explorer in Windows (or Finder in Mac).
-   - Move the ZIP file to a convenient location, e.g. `Documents\Courses\SEN1721\`
+   - Move the ZIP file to a convenient location, e.g. `Documents/Courses/SEN1721/`
 
 5. **Unpack (extract) the ZIP**
    - Right-click the ZIP file → choose **Extract All...**
-   - Inside the extracted folder you should see the subfolders **\In_class_assignments**
+   - Inside the extracted folder you should see the subfolders **/In_class_assignments**
       
 #### B. Download the requirements.txt file into your Downloads folder 
 
-1. **Go** to: github.com/SEN1721TUD/SEN1721_2026_public
+1. **Go** to: [github.com/SEN1721TUD/SEN1721_2026_public](https://github.com/SEN1721TUD/SEN1721_2026_public)
    
 2. In the file list, click on **requirements.txt**
 
@@ -183,7 +183,7 @@ Step-by-Step Instructions:
 
 1. After launching **Jupyter Notebook**, a new browser tab will open automatically.
 
-2. In the Jupyter file browser, **navigate to the course folder** where you unpacked the materials (e.g. Documents\Courses\SEN1721\SEN1721_2026_public-main\In_class_assignments).
+2. In the Jupyter file browser, **navigate to the course folder** where you unpacked the materials (e.g. Documents/Courses/SEN1721/SEN1721_2026_public-main/In_class_assignments).
 
 3. Locate the in-class assignment notebook you want to work on (file ending in .ipynb).
 
