@@ -1,0 +1,13 @@
+# Ignore all .vscode
+.vscode/
+.vscode
+
+# Ignore Python cache files
+__pycache__/
+__pycache__
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore MacOS system files
+.DS_Store
