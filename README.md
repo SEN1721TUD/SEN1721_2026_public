@@ -155,7 +155,7 @@ Step-by-Step Instructions:
    ![img6](./Assets/D-3.png) 
 
 4. Install the required packages by typing:
-   ``pip install –r requirements.txt``
+   ``pip install -r requirements.txt``
 
 5. Wait until the installation is finished (be patient)
 
