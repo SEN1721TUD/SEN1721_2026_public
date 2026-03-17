@@ -24,14 +24,15 @@ For each option, **instructions** to set up your Python environment are given at
 
 If you are **unfamiliar with Python**, we recommend completing [**lab session 0**](https://github.com/SEN1221TUD/Q2_2025/blob/main/Lab_sessions/Lab_session_00/lab_session_00.ipynb), which provides the necessary tools to conduct the in-class assignments. It covers topics such as data structures, utilising external libraries, data exploration, visualisation, etc.
 
-### 3.2. In-class assignment publication dates
-The In-class assignment and answers will be available on the following dates:
+### 3.2. Publication dates
+Assignments and answers will be available on the following dates:
 
 | Week | In-class assignment | Publication date<br>In-class assignment | Publication date<br>Answers |
 |:----:|:-------------------:|:--------------------------------------:|:------------------------------------------:|
-| 47   | In-class assignment 1 | ⏳ 17-03-2026 09:00 | ⏳ 18-03-2026 09:00 |
-| 48   | In-class assignment 2 | ⏳ 17-03-2026 09:00 | ⏳ 19-03-2026 09:00 |
-| 49   | In-class assignment 3 | ⏳ 17-03-2026 09:00 | ⏳ 20-03-2026 13:00 |
+| 12   | In-class assignment 1 | ✅ Available        | ⏳ 18-03-2026 13:00 |
+| 12   | In-class assignment 2 | ⏳ 18-03-2026 13:00 | ⏳ 20-03-2026 13:00 |
+| 12   | In-class assignment 3 | ⏳ 18-03-2026 16:00 | ⏳ 20-03-2026 13:00 |
+| 12   | Group assignment      | ⏳ 18-03-2026 16:00 | N/A |
 
 ## 4. Tutorials
 Tutorials are supplementary materials, offered to help you deepen your understanding of key concepts in choice modelling. They are **not** considered part of the **mandatory course material** for SEN1721. These ([tutorials](https://github.com/SEN1221TUD/Tutorials)) aim to reinforce your understanding of the topics covered. They do not contain exercises.<br>
