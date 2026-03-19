@@ -30,7 +30,7 @@ Assignments and answers will be available on the following dates:
 | Week | In-class assignment | Publication date<br>In-class assignment | Publication date<br>Answers |
 |:----:|:-------------------:|:--------------------------------------:|:------------------------------------------:|
 | 12   | In-class assignment 1 | ✅ Available        | ✅ [Available](https://github.com/SEN1721TUD/SEN1721_2026_public/blob/main/In_class_assignments/In-class_assignment1_with_answers.ipynb) |
-| 12   | In-class assignment 2 | ⏳ 18-03-2026 13:00 | ⏳ 20-03-2026 13:00 |
+| 12   | In-class assignment 2 | ✅ [Available](https://github.com/SEN1721TUD/SEN1721_2026_public/blob/main/In_class_assignments/In-class_assignment2.ipynb) | ⏳ 20-03-2026 13:00 |
 | 12   | In-class assignment 3 | ⏳ 18-03-2026 16:00 | ⏳ 20-03-2026 13:00 |
 | 12   | Group assignment      | ⏳ 18-03-2026 16:00 | N/A |
 
