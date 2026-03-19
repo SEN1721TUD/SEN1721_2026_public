@@ -31,8 +31,8 @@ Assignments and answers will be available on the following dates:
 |:----:|:-------------------:|:--------------------------------------:|:------------------------------------------:|
 | 12   | In-class assignment 1 | ✅ Available        | ✅ [Available](https://github.com/SEN1721TUD/SEN1721_2026_public/blob/main/In_class_assignments/In-class_assignment1_with_answers.ipynb) |
 | 12   | In-class assignment 2 | ✅ [Available](https://github.com/SEN1721TUD/SEN1721_2026_public/blob/main/In_class_assignments/In-class_assignment2.ipynb) | ⏳ 20-03-2026 13:00 |
-| 12   | In-class assignment 3 | ⏳ 18-03-2026 16:00 | ⏳ 20-03-2026 13:00 |
-| 12   | Group assignment      | ⏳ 18-03-2026 16:00 | N/A |
+| 12   | In-class assignment 3 | ✅ [Available](https://github.com/SEN1721TUD/SEN1721_2026_public/blob/main/In_class_assignments/In-class_assignment3.ipynb) | ⏳ 20-03-2026 13:00 |
+| 12   | Group assignment      | ✅ Available on BS | N/A |
 
 ## 4. Tutorials
 Tutorials are supplementary materials, offered to help you deepen your understanding of key concepts in choice modelling. They are **not** considered part of the **mandatory course material** for SEN1721. These ([tutorials](https://github.com/SEN1221TUD/Tutorials)) aim to reinforce your understanding of the topics covered. They do not contain exercises.<br>
